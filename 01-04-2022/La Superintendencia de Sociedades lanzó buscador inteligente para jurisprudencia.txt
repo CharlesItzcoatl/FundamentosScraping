@@ -1,0 +1,10 @@
+La Superintendencia de Sociedades lanzó buscador inteligente para jurisprudencia
+
+El sistema cuenta con una interfaz intuitiva y amigable, que facilita la consulta de información especializada con palabras clave
+
+La Superintendencia de Sociedades puso a disposición de sus usuarios Tesauro, un buscador inteligente de la jurisprudencia de procedimientos mercantiles y los conceptos jurídicos, proferidos por la Entidad.
+El sistema cuenta con una interfaz intuitiva y amigable, que facilita la consulta de información especializada, mediante la utilización de palabras clave, o a través de filtros como: sentencias, conceptos, temas y problemas y una opción de búsqueda inteligente por medio del cargue de documentos.
+El Tesauro compila más de nueve mil conceptos emitidos por la Oficina Asesora Jurídica, detallados y decantados en diferentes temáticas, que se podrán revisar con la ayuda de un menú que ofrece opciones como: descriptores, fuentes jurídicas, archivos y citas.
+“Con el desarrollo de esta tecnología, la Superintendencia de Sociedades avanza en su transformación digital para fortalecer la oferta de valor y lograr el reconocimiento y confianza de los usuarios, mediante la preservación del conocimiento y el fortalecimiento de la justicia digital”, puntualiza Billy Escobar Pérez, Superintendente de Sociedades.
+Este aplicativo con inteligencia artificial brinda una opción denominada asistente de creación de sentencia, que le permite al operador jurídico consultar documentos ya proferidos y extraer información útil para proyectar nuevas sentencias, potencializando sus capacidades y optimizando tiempos.
+Los ciudadanos encontrarán mediante el filtro de temas y problemas, líneas de precedente doctrinal analizadas y clasificadas en más de 200 contenidos sobre asuntos societarios, de insolvencia, garantías mobiliarias, entre otros, para facilitar la toma de decisiones basadas en datos.

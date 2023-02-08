@@ -1,0 +1,11 @@
+Microsoft y Claro lanzaron alianza de transformación digital para equipos de trabajo
+
+Se busca que a través de un solo operador las compañías encuentren integrados servicios de redes, almacenamiento y seguridad 
+
+En el día de cierre del Claro Tech Summit, Microsoft y Claro anunciaron un alianza que brindará soluciones a las compañías para acelerar la transformación digital a través de la integración de servicios de redes, cloud y seguridad disponibles en un solo proveedor.
+La alianza integra el portafolio de soluciones digitales de la compañía tecnológica junto con la presencia en el mercado del operador de telecomunicaciones para alinear las herramientas dentro de los negocios.
+"Buscamos que la comunicación ya no sea en diferentes canales sino que en una oferta, y a través de un número único, alguien pueda estar hablando y luego cambie de inmediato a Teams, luego llega a la oficina y cambia al computador sin colgar la llamada y ahí mismo comparta la información", expresó Jaime Galviz, gerente general de  Microsoft Colombia.
+Carlos Zenteno, presidente de 
+, expresó a su turno que "el poder de la nube de Microsoft y las capacidades digitales  combinadas con los conocimientos de los mercados B2B y SMB de Claro Colombia, crean una sinergia perfecta  para la transformación digital en una amplia gama de industrias y rganizaciones”.
+La relevancia de la noticia se da en medio de un contexto en el que según el Índice de Trabajo de Microsoft, más de 56% quiere seguir en trabajo híbrido y más de 50% dice que quiere seguir remoto. Además, en Colombia, generaciones como la Z manifiestan continuamente que quiere cambiar de trabajo.
+Conectividad MPLS y SD-WAN, junto con firewalls y capacidades de gestión de amenazas, migración cloud son unas de las ofertas disponibles en la categoría de la nube. Asimismo, plataformas IoT, Inteligencia Artificial, data analytics, entre otros, son los servicios de solución de negocio; mientras que comunidades virtuales y soporte son algunas de las características del punto de comunicación.
